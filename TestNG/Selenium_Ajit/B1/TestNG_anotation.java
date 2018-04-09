@@ -22,6 +22,7 @@ public class TestNG_anotation
 		//d.manage().deleteAllCookies();
 		d.get("https://www.google.co.in/");
 		//d.navigate().to("https://www.google.co.in/");
+		System.out.println("SSSSSSSSSSSSSSSSSSSSSS");
 		
 	}
 	@Test
